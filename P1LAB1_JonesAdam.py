@@ -1,7 +1,7 @@
-# Your Name
- # Date
- # Assignment Name
- # A brief description of the project
+# Adam Jones
+ # 06 NOV 2025
+ # Assignment: P1LAB1 - Welcome Message
+ # A ASSIGNMENT DESCRIPTION: This program displays a welcome message with the user's name.# Your Name
 
 
 print("Enter your first name: Adam")
