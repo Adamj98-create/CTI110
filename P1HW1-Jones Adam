@@ -1,0 +1,24 @@
+# Adam Jones
+ # 06 NOV 2025
+ # Assignment: P1LAB1 - Welcome Message
+ # ASSIGNMENT DESCRIPTION: This program displays a welcome message with the user's name.
+
+
+print("----Calculating Exponenets")
+
+value = int(input("Enter your first value: "))
+exponent = int(input("Enter your exponent: "))
+result = pow(value, exponent)
+
+print(value, "raised to the power of", exponent, "is:", result)
+
+print("----Addition and Subtraction----")
+
+first_number = ("Enter your first number: ")
+second_number = ("Enter your second number: ")
+first_number = int(input("Enter your first number: "))
+second_number = int(input("Enter your second number: "))
+third_number = int(input("Enter your third number: "))
+total = first_number + second_number - third_number
+
+print(first_number, "+", second_number, "-", third_number, "is equal to:", total)
